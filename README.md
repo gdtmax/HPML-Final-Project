@@ -100,6 +100,8 @@ The table below is copied from the benchmark artifact in `hpc_run/benchmark_resu
 
 ![Latency Breakdown](hpc_run/plots/latency_breakdown.png)
 
+![Latency w/o Quantization](hpc_run/plots/latency_no_quant.png)
+
 ![Speedup](hpc_run/plots/speedup.png)
 
 ![GPU Memory](hpc_run/plots/gpu_memory.png)
